@@ -1,7 +1,8 @@
 # Retail Sales & Customer Insights Dashboard
 
 **Tool:** Power BI Desktop  
-**Dataset:** Kaggle - Online Retail Dataset (Public)  
+**Dataset Source:** [Kaggle - Online Retail Dataset by Ulrik Thyge Pedersen](https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset/data)
+)  
 
 <img width="2213" height="1231" alt="image" src="https://github.com/user-attachments/assets/496fddda-c3a8-4f57-b2b5-9111c422bd63" />
 ---
