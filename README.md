@@ -35,7 +35,7 @@ Data cleaning and transformation steps in Power BI Power Query include:
 
 ### Key DAX Measures
 
-| Measure Name              | Description                                                  |
+|Measure Name              | Description                                                  |
 |--------------------------|--------------------------------------------------------------|
 | Net Sales                | Net sales amount excluding refunds                           |
 | Return Rate              | Refund amount as a percentage of total sales                 |
