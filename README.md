@@ -82,9 +82,10 @@ Data cleaning and transformation steps in Power BI Power Query include:
 
 ### Business Value & Use Cases
 
-| Use Case          | Explanation                                                         |
-|-------------------|---------------------------------------------------------------------|
-| Sales Analysis     | Identify monthly trends and product-level performance              |
-| Product Decisions  | Detect high-return items for improvement or removal                |
-| Customer Insights  | Measure customer loyalty and purchase behaviour                    |
-| Market Strategy    | Use geographic data to prioritise target regions                   |
+| Use Case          | Explanation                                                   |
+|:------------------|:--------------------------------------------------------------|
+| Sales Analysis     | Identify monthly trends and product-level performance        |
+| Product Decisions  | Detect high-return items for improvement or removal          |
+| Customer Insights  | Measure customer loyalty and purchase behaviour              |
+| Market Strategy    | Use geographic data to prioritise target regions             |
+
