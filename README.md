@@ -1,4 +1,4 @@
-<img width="2213" height="1231" alt="image" src="https://github.com/user-attachments/assets/7cec6453-b854-44d9-ab4a-4c78fce93bd6" /># Retail Sales & Customer Insights Dashboard
+# Retail Sales & Customer Insights Dashboard
 
 **Tool:** Power BI Desktop  
 **Dataset:** Kaggle - Online Retail Dataset (Public)  
