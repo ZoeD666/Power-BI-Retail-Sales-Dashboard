@@ -35,17 +35,18 @@ Data cleaning and transformation steps in Power BI Power Query include:
 
 ### Key DAX Measures
 
-|Measure Name              | Description                                                  |
-|--------------------------|--------------------------------------------------------------|
-| Net Sales                | Net sales amount excluding refunds                           |
-| Return Rate              | Refund amount as a percentage of total sales                 |
-| ConvertedCustomerCount   | Number of unique customers with non-zero transactions        |
-| AvgOrderPerCustomer      | Net Sales divided by ConvertedCustomerCount                  |
+| Measure Name              | Description                                                |
+|:--------------------------|:-----------------------------------------------------------|
+| Net Sales                | Net sales amount excluding refunds                         |
+| Return Rate              | Refund amount as a percentage of total sales               |
+| ConvertedCustomerCount   | Number of unique customers with non-zero transactions      |
+| AvgOrderPerCustomer      | Net Sales divided by ConvertedCustomerCount                |
 | RepeatCustomerCount_60Days | Customers with 2+ purchases within last 60 days (excluding same-day orders) |
-| RepeatRate               | RepeatCustomerCount_60Days / ConvertedCustomerCount          |
-| ReturnAmount             | Total refund value                                           |
-| TotalOrderAmount         | Total sales including refunds                                |
-| ReturnAmountbarchart     | Special field for return bar chart visualisation             |
+| RepeatRate               | RepeatCustomerCount_60Days / ConvertedCustomerCount        |
+| ReturnAmount             | Total refund value                                         |
+| TotalOrderAmount         | Total sales including refunds                              |
+| ReturnAmountbarchart     | Special field for return bar chart visualisation           |
+
 
 ---
 
